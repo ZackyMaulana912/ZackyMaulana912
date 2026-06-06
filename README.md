@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Zacky Maulana
 
-<!--
-**ZackyMaulana912/ZackyMaulana912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Machine Learning | Fintech AI  
+Surabaya, Indonesia  
+Universitas Muhammadiyah Surabaya — Informatika (2024–2028)  
+Student in Coding Camp 2026 powered by DBS Foundation 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Data Scientist who loves turning raw data into meaningful insights and building AI-powered solutions that solve real problems. Currently focused on machine learning, deep learning, and deploying models to production.
+
+- Currently working on **ModalIn** — AI Credit Scoring platform for Indonesian
+- Learning **Deep Reinforcement Learning** and **Agentic AI**
+- Interested in **Fintech AI**, **NLP**, and **Computer Vision**
+- Reach me at: bossrete@gmail.com
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Machine Learning & Data**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Tools & Platforms**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [ModalIn — AI Credit Scoring for UMKM](https://github.com/ZackyMaulana912/modalin-app)
+> Full-stack AI platform untuk penilaian kredit alternatif UMKM Indonesia
+
+- Neural Network (Keras) menghasilkan skor kredit **100–900** berbasis framework **4C**
+- Deteksi **7 jenis anomali arus kas** secara real-time
+- Arsitektur microservice: React + Express.js + FastAPI + Streamlit
+- Live: [modalin-app-eta.vercel.app](https://modalin-app-eta.vercel.app)
+
+### [Smart Rice Detector](https://github.com/ZackyMaulana912/Smart-Rice-Detector)
+> Deteksi kualitas beras menggunakan Computer Vision
+
+### [DataScientis Diabetes & Jantung](https://github.com/ZackyMaulana912/DataScientis-Diabetes-dan-Jantung)
+> Prediksi penyakit jantung dan diabetes menggunakan Machine Learning
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZackyMaulana912&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackyMaulana912&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Achievements
+
+- Coding Camp 2026 powered by DBS Foundation — Data Scientist
+- Completed Module 5: Deep Reinforcement Learning & Agentic AI
+
+---
+
+<p align="center">
+  <i>"Data is the new oil, but insight is the refined fuel."</i>
+</p>
