@@ -59,15 +59,6 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZackyMaulana912&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackyMaulana912&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## Achievements
 
 - Coding Camp 2026 powered by DBS Foundation — Data Scientist
