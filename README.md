@@ -1,9 +1,9 @@
 # Hi, I'm Zacky Maulana
 
-Data Scientist | Machine Learning | Fintech AI  
+Data Scientist | Machine Learning | Computer Vision   
 Surabaya, Indonesia  
 Universitas Muhammadiyah Surabaya — Informatika (2024–2028)  
-Student in Coding Camp 2026 powered by DBS Foundation 2026
+Distinction in Coding Camp 2026 powered by DBS Foundation 2026
 
 ---
 
@@ -43,7 +43,7 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 
 ## Featured Projects
 
-### [ModalIn — AI Credit Scoring for UMKM](https://github.com/ZackyMaulana912/modalin-app)
+### [ModalIn - AI Credit Scoring for UMKM](https://github.com/ZackyMaulana912/modalin-app)
 > Full-stack AI platform untuk penilaian kredit alternatif UMKM Indonesia
 
 - Neural Network (Keras) menghasilkan skor kredit **100–900** berbasis framework **4C**
@@ -61,8 +61,7 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 
 ## Achievements
 
-- Coding Camp 2026 powered by DBS Foundation — Data Scientist
-- Completed Module 5: Deep Reinforcement Learning & Agentic AI
+- Distinction in Coding Camp 2026 powered by DBS Foundation — Data Scientist
 
 ---
 
