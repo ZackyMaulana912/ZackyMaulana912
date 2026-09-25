@@ -49,7 +49,7 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 - Neural Network (Keras) menghasilkan skor kredit **100–900** berbasis framework **4C**
 - Deteksi **7 jenis anomali arus kas** secara real-time
 - Arsitektur microservice: React + Express.js + FastAPI + Streamlit
-- Live: [modalin-app-eta.vercel.app](https://modalin-app-eta.vercel.app)
+- Live: [[modalin-app-eta.vercel.app](https://modalin.engineering-umsura.id)]([https://modalin-app-eta.vercel.app](https://modalin.engineering-umsura.id))
 
 ### [Smart Rice Detector](https://github.com/ZackyMaulana912/Smart-Rice-Detector)
 > Deteksi kualitas beras menggunakan Computer Vision
