@@ -63,6 +63,17 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
   <img src="assets/telkomsat-internship.jpg" alt="Zacky Maulana saat internship di Telkomsat, Bogor" width="480">
 </p>
 
+### Data Scientist Cohort — Coding Camp 2026 powered by DBS Foundation (Dicoding)
+*Feb – Jul 2026 · Graduated with Distinction*
+
+- Program pelatihan intensif **961 jam** jalur Data Scientist, rata-rata nilai **92,92 (A)**
+- Materi: analisis data, pemrosesan data, machine learning, visualisasi data, dan matematika untuk data science
+- Capstone tim: **ModalIn**, platform AI credit scoring untuk UMKM (nilai 95)
+
+<p align="center">
+  <img src="assets/dicoding-coding-camp-certificate.jpg" alt="Sertifikat Coding Camp 2026 powered by DBS Foundation — Data Scientist, Distinction" width="560">
+</p>
+
 ---
 
 ## Featured Projects
@@ -73,7 +84,7 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 - Neural Network (Keras) menghasilkan skor kredit **100–900** berbasis framework **4C**
 - Deteksi **7 jenis anomali arus kas** secara real-time
 - Arsitektur microservice: React + Express.js + FastAPI + Streamlit
-- Live: [[https://modalin.engineering-umsura.id](https://modalin.engineering-umsura.id)])
+- Live: [modalin.engineering-umsura.id](https://modalin.engineering-umsura.id)
 
 ### [Smart Rice Detector](https://github.com/ZackyMaulana912/SAFE-GRAIN-BERAS)
 > Sistem AI Computer Vision untuk menilai kualitas beras dari foto (proyek tim, Tugas Besar Kecerdasan Buatan)
