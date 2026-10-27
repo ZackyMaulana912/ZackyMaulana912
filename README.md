@@ -76,10 +76,11 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 - Live: [[https://modalin.engineering-umsura.id](https://modalin.engineering-umsura.id)])
 
 ### [Smart Rice Detector](https://github.com/ZackyMaulana912/SAFE-GRAIN-BERAS)
-> Deteksi kualitas beras menggunakan Computer Vision
+> Sistem AI Computer Vision untuk menilai kualitas beras dari foto (proyek tim, Tugas Besar Kecerdasan Buatan)
 
-### [DataScientis Diabetes & Jantung](https://github.com/ZackyMaulana912/DataScientis-Diabetes-dan-Jantung)
-> Prediksi penyakit jantung dan diabetes menggunakan Machine Learning
+- Model **YOLOv8** dilatih pada dataset beras lokal untuk mendeteksi **3 kelas**: butir utuh, butir pecah, dan benda asing
+- Grading otomatis **Premium / Medium / Low / Tidak Bersih** berdasarkan persentase butir utuh dan jumlah benda asing
+- Model disajikan lewat API FastAPI, bisa scan dari upload foto atau kamera langsung
 
 ---
 
