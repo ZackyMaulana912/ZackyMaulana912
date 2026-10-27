@@ -22,8 +22,6 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Machine Learning & Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -32,12 +30,38 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+**Computer Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO_%28Ultralytics%29-111F68?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat)
+
 **Tools & Platforms**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## Experience
+
+### Computer Vision Intern — Telkomsat, Bogor
+*Internship · 2 months*
+
+**Mining Truck Detection**
+- Melatih model **YOLOv9** untuk mendeteksi truk tambang, status muatan (bermuatan / kosong), excavator, dan bak yang sedang menumpahkan muatan dari kamera CCTV
+- mAP50 **0,85–0,94** per kelas pada data uji dari site asli dan tambang lain
+- Model diekspor ke **ONNX** (~2 ms per gambar di Mac M1 Pro) dan dijalankan di Frigate NVR sebagai detektor kustom
+
+**SH17 — Deteksi APD (Alat Pelindung Diri)**
+- Menambahkan **6 kelas "tidak memakai APD"** (misalnya kepala tanpa helm) ke dataset SH17: 8.099 gambar, dari 17 menjadi 23 kelas
+- Kotak label dibuat otomatis dari anotasi yang sudah ada, lalu divalidasi dan dicek manual
+- Seluruh 8.099 gambar dinilai konteksnya satu per satu supaya kelas negatif hanya diberikan untuk pekerja lapangan
+
+<p align="center">
+  <img src="assets/telkomsat-internship.jpg" alt="Zacky Maulana saat internship di Telkomsat, Bogor" width="480">
+</p>
 
 ---
 
@@ -51,7 +75,7 @@ I'm a Data Scientist who loves turning raw data into meaningful insights and bui
 - Arsitektur microservice: React + Express.js + FastAPI + Streamlit
 - Live: [[https://modalin.engineering-umsura.id](https://modalin.engineering-umsura.id)])
 
-### [Smart Rice Detector](https://github.com/ZackyMaulana912/Smart-Rice-Detector)
+### [Smart Rice Detector](https://github.com/ZackyMaulana912/SAFE-GRAIN-BERAS)
 > Deteksi kualitas beras menggunakan Computer Vision
 
 ### [DataScientis Diabetes & Jantung](https://github.com/ZackyMaulana912/DataScientis-Diabetes-dan-Jantung)
